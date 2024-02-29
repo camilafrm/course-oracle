@@ -1,0 +1,2 @@
+SELECT * FROM Orders
+WHERE ShipRegion IS NOT NULL
